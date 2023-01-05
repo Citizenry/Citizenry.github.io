@@ -6,3 +6,4 @@ layout: Post
 permalink: /
 title: Citizenry.Technology
 ---
+
